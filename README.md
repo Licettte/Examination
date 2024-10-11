@@ -7,6 +7,6 @@
 3. Styled-components
 4. Antd disign
 5. Prettier
-6. Redix Toolkit
+6. Redux Toolkit
 7. Redux remember
 ```
