@@ -5,7 +5,7 @@
 1. React
 2. TypeScript
 3. Styled-components
-4. Antd disign
+4. Antd design
 5. Prettier
 6. Redux Toolkit
 7. Redux remember
